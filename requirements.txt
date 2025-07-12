@@ -3,7 +3,9 @@ uvicorn
 python-dotenv
 langchain-google-genai
 langchain-community
-langchain
+langchain-text-splitters
+langchain-chains
+langchain-prompts
 langchain-huggingface
 docx2txt
 pydantic
